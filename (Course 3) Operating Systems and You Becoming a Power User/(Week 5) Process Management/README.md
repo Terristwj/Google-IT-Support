@@ -1,4 +1,4 @@
-## Introduction to Networking
+## Process Management
 
 - 37 min of videos
 - 1h 30m of readings

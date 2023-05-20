@@ -1,4 +1,4 @@
-## Introduction to Networking
+## Operating Systems in Practice
 
 - 38 min of videos
 - 1h 50m of readings

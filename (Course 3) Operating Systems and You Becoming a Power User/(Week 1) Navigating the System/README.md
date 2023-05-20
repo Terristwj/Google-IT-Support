@@ -1,4 +1,4 @@
-## Introduction to Networking
+## Navigating the System
 
 - 1h 17m of videos
 - 1h 40m of readings

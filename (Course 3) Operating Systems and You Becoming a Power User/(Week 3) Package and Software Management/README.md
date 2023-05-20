@@ -1,4 +1,4 @@
-## Introduction to Networking
+## Package and Software Management
 
 - 51 min of videos
 - 3h of readings

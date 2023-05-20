@@ -1,4 +1,4 @@
-## Introduction to Networking
+## Users and Permissions
 
 - 57 min of videos
 - 50 min of readings
