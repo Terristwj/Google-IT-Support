@@ -2,6 +2,10 @@
 
 <br>
 
+![img](Specialization_Certificate.jpg)
+
+<br>
+
 ### About this Professional Certificate
 
 This 5-course certificate, developed by Google, includes innovative curriculum designed to prepare you for an entry-level role in IT support. A job in IT can mean in-person or remote help desk work in a small business or at a global company like Google. The program is part of Grow with Google, a Google initiative to help create economic opportunity for all. [Learn More](https://www.youtube.com/watch?v=5ZjTX0GC944&t=1s).
@@ -18,15 +22,15 @@ Examples of virtual assessments include Assembling a Computer, Networking simula
 
 ### Skills you will gain
 
-* Binary Code
-* Customer Support
-* Linux
-* Troubleshooting
-* Domain Name System (DNS)
-* Ipv4
-* Network Model
-* Powershell
-* Linux File Systems
-* Command-Line Interface
-* Directory Service
-* Lightweight Directory Access Protocol (LDAP)
+- Binary Code
+- Customer Support
+- Linux
+- Troubleshooting
+- Domain Name System (DNS)
+- Ipv4
+- Network Model
+- Powershell
+- Linux File Systems
+- Command-Line Interface
+- Directory Service
+- Lightweight Directory Access Protocol (LDAP)
